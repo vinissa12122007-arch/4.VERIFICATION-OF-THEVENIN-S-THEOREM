@@ -19,6 +19,7 @@ To verify Thevenin’s theorem practically and theoretically for the given DC ci
 6.	Multimeter	---	1
 
 **THEORY:**
+<img width="903" height="1600" alt="image" src="https://github.com/user-attachments/assets/1898f639-b843-441b-8bbc-9e2296cd8d2b" />
 
 **THEVENIN’S THEOREM:**
 
@@ -33,6 +34,9 @@ Thevenin’s Resistance, RTh:
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+
+<img width="868" height="1374" alt="image" src="https://github.com/user-attachments/assets/63b5a02d-d3cd-45bf-b912-8f2183734802" />
+
 
 To measure IL
 
@@ -75,6 +79,13 @@ Thevenin’s equivalent circuit
 
 11.	Calculate the IL value using the formula
     Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
-    Norton’s Theorem IL = IN * RN / ( RN + RL )
+    Norton’s Theorem IL = IN * RN 
+/ ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+** CALCUATION**
+<img width="868" height="1482" alt="image" src="https://github.com/user-attachments/assets/2a77c7f0-52f4-4b81-b02a-c201ee96b795" />
+** RESULT**
+<img width="868" height="1360" alt="image" src="https://github.com/user-attachments/assets/f3e47e05-b278-4d74-8e3b-2b9c4d9510f4" />
+
+
